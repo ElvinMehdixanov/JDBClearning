@@ -1,0 +1,9 @@
+package org.example;
+
+public class forWhile {
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) {
+            System.out.print("Salam");
+        }
+    }
+}
